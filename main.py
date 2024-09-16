@@ -1,3 +1,9 @@
+# step 1 - to start this project you need to install PyCharm community edition or VS Code
+# step 2 - you need to install the "pytube" package from your terminal
+# step 3 - you need to import a package that is already installed in PyCharm and VS Code - "tkinter"
+# step 4 - start coding 
+
+
 from pytube import YouTube
 import tkinter as tk
 from tkinter import filedialog
